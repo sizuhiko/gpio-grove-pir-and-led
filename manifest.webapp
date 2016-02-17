@@ -1,0 +1,13 @@
+{
+  "name": "GPIO Grove PIR Motion Sensor and Chainable RGB LED",
+  "description": "GPIO Grove PIR Motion Sensor and Chainable RGB LED",
+  "type": "privileged",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "sizuhiko",
+    "url": "https://github.com/sizuhiko"
+  },
+  "icons": {
+    "128": "/style/icons/sensor.png"
+  }
+}
